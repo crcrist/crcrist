@@ -22,12 +22,12 @@
 
 ---
 
-### 🎵 Fun Stuff  
+<!-- ### 🎵 Fun Stuff  
 - 🎶 [Spotify Now Playing](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem)  
 - 🐍 Contribution snake animation:  
   ![snake gif](https://github.com/crcrist/crcrist/blob/output/github-contribution-grid-snake.gif)
 
----
+--- -->
 
 ### 🌐 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connor%20Crist-blue?logo=linkedin)](https://www.linkedin.com/in/connor-crist-4345b6200)  
