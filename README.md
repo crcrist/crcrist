@@ -31,4 +31,4 @@
 
 ### 🌐 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connor%20Crist-blue?logo=linkedin)](https://www.linkedin.com/in/connor-crist-4345b6200)  
-[![GitHub](https://img.shields.io/badge/GitHub-crcrist-lightgrey?logo=github)](https://github.com/crcrist)  
+<!-- [![GitHub](https://img.shields.io/badge/GitHub-crcrist-lightgrey?logo=github)](https://github.com/crcrist)   -->
