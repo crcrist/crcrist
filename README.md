@@ -1,34 +1,14 @@
-# Hey, I'm Connor 👋  
+### Connor Crist
 
-💻 **Senior Analyst @ Walmart** | 🚀 Aspiring Data Scientist / Software Engineer  
+I work with data at Walmart. At home, a Raspberry Pi runs my side projects:
+it schedules my marathon training, paper-trades options, and hosts whatever
+else I'm currently over-engineering.
 
----
+Some things here worth a look:
 
-### 🌟 About Me  
-- 🔧 Skilled in **Python, SQL**  
-- 📚 Currently learning **C++, ASM, Java**  
-- 🌱 Exploring **machine learning, physics simulations, and software engineering**  
+- [notes-dashboard.nvim](https://github.com/crcrist/notes-dashboard.nvim) — Neovim plugin for tracking project progress without leaving the editor
+- [demoscene](https://github.com/crcrist/demoscene) — C++ graphics experiments, practice for writing code close to the metal
+- [port_scanner_rust](https://github.com/crcrist/port_scanner_rust) — small CLI port scanner, written to learn Rust
+- [chess-for-chud](https://github.com/crcrist/chess-for-chud) — 2D chess in JavaScript; the name stays
 
----
-
-### 📈 GitHub Stats  
-![Connor's GitHub stats](https://github-readme-stats.vercel.app/api?username=crcrist&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crcrist&layout=compact&theme=tokyonight)  
-
----
-
-### 🚀 Featured Projects  
-- 🛠️ [**Trading Bot**](https://github.com/crcrist/tradingbot) → High performance stock price prediction API - MLOps Project
-
----
-
-<!-- ### 🎵 Fun Stuff  
-- 🎶 [Spotify Now Playing](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem)  
-- 🐍 Contribution snake animation:  
-  ![snake gif](https://github.com/crcrist/crcrist/blob/output/github-contribution-grid-snake.gif)
-
---- -->
-
-### 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connor%20Crist-blue?logo=linkedin)](https://www.linkedin.com/in/connor-crist-4345b6200)  
-<!-- [![GitHub](https://img.shields.io/badge/GitHub-crcrist-lightgrey?logo=github)](https://github.com/crcrist)   -->
+[LinkedIn](https://www.linkedin.com/in/connor-crist-4345b6200/)
